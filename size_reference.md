@@ -1,4 +1,4 @@
-#Size References for System Design Capacity Calculations
+# Size References for System Design Capacity Calculations
 
 1 Byte = 8 bits
 
